@@ -1,0 +1,16 @@
+---
+title: "testFile"
+author: "Max Brill"
+date: "10/14/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+## RStudio Github Connection Test File
+
+Just some text here.
